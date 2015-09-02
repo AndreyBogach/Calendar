@@ -1,0 +1,149 @@
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.g.cs
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\App.g.cs
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.cache
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.lref
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.baml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.g.resources
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.xml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\Resources\Brushes.baml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.baml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\App.baml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.xml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.xml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csprojResolveAssemblyReference.cache
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Brushes.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.cache
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.lref
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.g.resources
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.Properties.Resources.resources
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Brushes.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.lref
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.g.resources
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.Properties.Resources.resources
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Brushes.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.lref
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.g.resources
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.Properties.Resources.resources
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.xml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.xml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csprojResolveAssemblyReference.cache
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Brushes.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.g.cs
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.cache
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.lref
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.baml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.g.resources
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.Properties.Resources.resources
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Brushes.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\Resources\Core.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\App.g.cs
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar_MarkupCompile.lref
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.g.resources
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.Properties.Resources.resources
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.CodeAnalysisLog.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\bin\Debug\CustomCalendar.exe.lastcodeanalysissucceeded
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\obj\Debug\CustomCalendar.csprojResolveAssemblyReference.cache
+C:\Users\Laba\Documents\GitHub\Calendar\Calendar\CustomCalendar\bin\Debug\CustomCalendar.exe.config
+C:\Users\Laba\Documents\GitHub\Calendar\Calendar\CustomCalendar\obj\Debug\CustomCalendar.exe
+C:\Users\Laba\Documents\GitHub\Calendar\Calendar\CustomCalendar\obj\Debug\CustomCalendar.pdb

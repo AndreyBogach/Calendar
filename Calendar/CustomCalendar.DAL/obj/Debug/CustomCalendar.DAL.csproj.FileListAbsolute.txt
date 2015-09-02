@@ -1,0 +1,49 @@
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.config
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.xml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.dll
+c:\users\андрей\documents\visual studio 2015\Projects\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.config
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.pdb
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.xml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.csprojResolveAssemblyReference.cache
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.dll
+E:\downloads\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.config
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.config
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.config
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.dll
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\obj\Debug\CustomCalendar.DAL.pdb
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.CodeAnalysisLog.xml
+C:\Users\Андрей\Downloads\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar\CustomCalendar.DAL\bin\Debug\CustomCalendar.DAL.dll.lastcodeanalysissucceeded
